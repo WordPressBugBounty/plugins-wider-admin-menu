@@ -10,7 +10,7 @@
  * License:                 GPLv3 or later
  * License URI:             http://www.gnu.org/licenses/gpl-3.0.html
  * Requires PHP:            5.6
- * Tested up to:            6.7
+ * Tested up to:            6.8
  *
  * Copyright 2014-2019      Chris Dillon        chris@strongwp.com
  * Copyright 2019           MachoThemes         office@machothemes.com
