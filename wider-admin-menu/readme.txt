@@ -2,7 +2,7 @@
 Contributors: wpchill,silkalns,cdillon27
 Tags: admin menu
 Requires at least: 5.2
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
 Stable tag: 1.4
 License: GPLv3 or later
@@ -83,6 +83,10 @@ Need a hand? I'm on the [support forum](http://wordpress.org/support/plugin/wide
 Some plugins and themes don't fully uninstall everything they installed - things like settings, database tables, subdirectories. That bugs me. Sometimes, it bugs your WordPress too.
 
 So this plugin will completely remove itself upon deletion. Deactivating the plugin will leave the settings intact, though. As an added bonus, you can switch off "Leave No Trace" so the settings remain after deletion, if you want.
+
+= Where do I report security bugs found in this plugin? =
+
+Please report security bugs found in the source code of the Wider Admin Menu plugin through the [Patchstack Vulnerability Disclosure  Program](https://patchstack.com/database/vdp/60969ff6-324d-408d-b967-06d70d70b1a9). The Patchstack team will assist you with verification, CVE assignment, and notify the developers of this plugin."
 
 == Screenshots ==
 
